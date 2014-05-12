@@ -1,0 +1,10 @@
+#filename size
+tom.dat 300
+jerry.dat 10
+abc.txt 20
+iam.txt 1000
+sripriya.txt 500
+erw.txt 1
+sjfh.txt 4
+sbhf 30
+
